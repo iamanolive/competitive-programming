@@ -1,10 +1,11 @@
-#B. Glass and Mug
+# B. Glass and Mug
 
 * problem B in AtCoder Beginner Contest 332
 * solved not as part of contest, but for practice
 * rating of 200 on AtCoder
+* link to problem: https://atcoder.jp/contests/abc332/tasks/abc332_b
 
-##Problem notes and Logic
+## Problem notes and Logic
 
 * total capacity of glass = g ml
 * total capacity of mug = m ml
@@ -13,7 +14,7 @@
 * initial amt of water in mug = 0
 * performing k operations, determine final amt of water in both containers
 
-##Code implementation of the solution
+## Code implementation of the solution
 
 * we can declare two variables to hold the initial amt of water contained in the glass and the mug, and initialize them both to 0
 * after that we take a for loop that runs k times, and checks the given conditions each time, and modifies the values accordingly.

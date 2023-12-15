@@ -1,9 +1,9 @@
-#E. Cursed Indices
+# E. Cursed Indices
 
 * problem E in the CodeChef Starters 112 round (Division 4)
 * rated 1803 on CodeChef
 
-##Implementation of the solution
+## Implementation of the solution
 
 * using a multiset (works the same as a c++ set, but with the added capability of storing duplicate values) because of the set.upper_bound() function it provides
 * upper_bound function gives the minimum value in the set that is strictly greater than the value of the argument passed
