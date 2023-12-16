@@ -13,3 +13,7 @@ Github repository featuring all accepted Competitive Programming problems solved
   - C. Simple Calculator (CodeForces TLE Eliminators Sheet #1)
   - D. Difference (CodeForces TLE Eliminators Sheet #1)
   - A. Tomorrow (AtCoder rating 100), (practice question from Beginner Contest 331)
+* 16th December
+  - A. Constructive Problems (CodeForces round 915 Div 2)
+  - Smart Phone (CodeChef past ZCO problems, 2014)
+  - Video Game (CodeChef past ZCO problems, 2014)
