@@ -3,11 +3,11 @@ Github repository featuring all accepted Competitive Programming problems solved
 
 ## December 2023
 
-Total problems solved:
-Total AtCoder problems solved:
-Total CodeChef problems solved:
-Total CodeForces problems solved:
-Total Contests attempted:
+* Total problems solved:
+* Total AtCoder problems solved:
+* Total CodeChef problems solved:
+* Total CodeForces problems solved:
+* Total Contests attempted:
 
 ### 14th December
 
@@ -56,3 +56,9 @@ Total Contests attempted:
 * Y. The last 2 digits (CodeForces TLE Eliminators Sheet #1)
 * Z. Hard Compare (CodeForces TLE Eliminators Sheet #1)
 * A. Watermelon (CodeForces rating 800) (scorable practice question for TLE eliminators week 1)
+
+
+### 19th December
+
+* A. Problemsolving Log (CodeForces round 916 Div 3)
+* B. Preparing for the Contest (CodeForces round 916 Div 3)
