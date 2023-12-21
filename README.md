@@ -62,3 +62,25 @@ Github repository featuring all accepted Competitive Programming problems solved
 
 * A. Problemsolving Log (CodeForces round 916 Div 3)
 * B. Preparing for the Contest (CodeForces round 916 Div 3)
+
+### 20th December
+
+* Ranked 530 out of 19670 participants in CodeChef Starters 113 (Div 4)
+* Advanced to 2 star rating on CodeChef
+
+* K. Divisors (CodeForces TLE Eliminators Sheet #2)
+* C. Even, Odd, Positive and Negative (CodeForces TLE Eliminators Sheet #2)
+* O. Fibonacci (CodeForces TLE Eliminators Sheet #3)
+* A. In Search of an Easy Problem (Technocup 2019 Problem 1030 A), (TLE Eliminators level 1 week 2 scorable problem)
+* B. Keep it Beautiful (CodeForces Educational Round 150)
+* H. One Prime (CodeForces TLE Eliminators Sheet #2)
+* R. Permutation with Arrays (CodeForces TLE Eliminators Sheet #3)
+* B. Queue at the School (CodeForces Round 163 Div 2), (TLE Eliminators level 1 week 2 scorable problem)
+* Pattern Printing (GeeksForGeeks), (TLE Eliminators Level 1 week 2 practice problem)
+* Pattern (HackerEarth), (TLE Eliminators Level 1 week 2 practice problem)
+* Print the Pattern (HackerEarth), (TLE Eliminators Level 1 week 2 practice problem)
+* A. Thala for a Reason (CodeChef Startes 113 Div 4)
+* B. Make N Zero (CodeChef Startes 113 Div 4)
+* C. Maximum Sum (CodeChef Startes 113 Div 4)
+* D. Sum Neq (CodeChef Startes 113 Div 4)
+* F. Make all Equal (CodeChef Startes 113 Div 4)
