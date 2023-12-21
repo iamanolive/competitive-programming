@@ -3,11 +3,11 @@ Github repository featuring all accepted Competitive Programming problems solved
 
 ## December 2023
 
-* Total problems solved:
-* Total AtCoder problems solved:
-* Total CodeChef problems solved:
-* Total CodeForces problems solved:
-* Total Contests attempted:
+Total problems solved: <br>
+Total AtCoder problems solved: <br>
+Total CodeChef problems solved: <br>
+Total CodeForces problems solved: <br>
+Total Contests attempted: <br>
 
 ### 14th December
 
@@ -65,8 +65,8 @@ Github repository featuring all accepted Competitive Programming problems solved
 
 ### 20th December
 
-* Ranked 530 out of 19670 participants in CodeChef Starters 113 (Div 4)
-* Advanced to 2 star rating on CodeChef
+[Ranked 530 out of 19670 participants in CodeChef Starters 113 (Div 4)]<br>
+[Advanced to 2 star rating on CodeChef]
 
 * K. Divisors (CodeForces TLE Eliminators Sheet #2)
 * C. Even, Odd, Positive and Negative (CodeForces TLE Eliminators Sheet #2)
@@ -84,3 +84,14 @@ Github repository featuring all accepted Competitive Programming problems solved
 * C. Maximum Sum (CodeChef Startes 113 Div 4)
 * D. Sum Neq (CodeChef Startes 113 Div 4)
 * F. Make all Equal (CodeChef Startes 113 Div 4)
+
+### 21st December
+
+* A. Winter Sale (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* B. Memo and Momo (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* C. Next Alphabet (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* D. Ali Baba and Puzzles (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* E. Interval Sweep (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* F. Adding Bits (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* G. Katryoshka (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+* I. Lucky Numbers (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
