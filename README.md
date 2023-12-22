@@ -95,3 +95,12 @@ Total Contests attempted: <br>
 * F. Adding Bits (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
 * G. Katryoshka (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
 * I. Lucky Numbers (ICPC Assuit University Training Contest 1), (solved as part of a 3-hr mock practice contest)
+
+### 22nd December
+
+* 1 Polycarp and Coins (c2 CodeForces ladder), (rated 800)
+* 2 Odd Set (c2 CodeForces ladder), (rated 800)
+* 3 Arithmetic Array (c2 CodeForces ladder), (rated 800)
+* 4 Fair Playoff (c2 CodeForces ladder), (rated 800)
+* 5 Dislike of Threes (c2 CodeForces ladder), (rated 800)
+* 6 Do not be distracted (c2 CodeForces ladder), (rated 800)
