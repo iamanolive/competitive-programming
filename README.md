@@ -104,3 +104,12 @@ Total Contests attempted: <br>
 * 4 Fair Playoff (c2 CodeForces ladder), (rated 800)
 * 5 Dislike of Threes (c2 CodeForces ladder), (rated 800)
 * 6 Do not be distracted (c2 CodeForces ladder), (rated 800)
+
+### 23rd December
+
+* A. Distinct Buttons (CodeForces Pinely Round 3 Div 2), (solved as part of contest)
+* A. Christmas Presents (AtCoder Beginner Contest 334), (solved as part of contest)
+* A. Counting Passes (AtCoder rating 100), (kenkoooo 100 rated problem solving session)
+* B. Minimize Abs 1 (AtCoder rating 200), (kenkoooo 200 rated problem solving session)
+* B. Next (AtCoder rating 200), (kenkoooo 200 rated problem solving session)
+* A. Spread (AtCoder rating 100), (kenkoooo 100 rated problem solving session)
