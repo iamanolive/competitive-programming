@@ -8,13 +8,13 @@ int main() {
     for(int i = 0; i < n; i++)
         cin >> arr[i];
     sort(arr, arr + n);
-    long long total = 0;
-    for(int i = 0; i < n; i++) {
-        for(int j = i+1; j < n; j++) {
-            if(abs(arr[j] - arr[i]) >= k) {
-                total += n - arr[i] + 1;
-                break;
+    int result = 0;
+    for(int i = 0; i < n - 1; i++) {
+        for(int j = i + 1; j < n; j++) {
+            if(arr[j] - arr[i] >= k) {
+                result += n - j;
+                j = n;
             }
         }
-    } cout << total << '\n';
+    } cout << result << '\n';
 }

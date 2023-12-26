@@ -83,7 +83,7 @@ Total Contests attempted: <br>
 * B. Make N Zero (CodeChef Startes 113 Div 4)
 * C. Maximum Sum (CodeChef Startes 113 Div 4)
 * D. Sum Neq (CodeChef Startes 113 Div 4)
-* F. Make all Equal (CodeChef Startes 113 Div 4)
+* F. Make all Equal (CodeChef Starters 113 Div 4)
 
 ### 21st December
 
@@ -113,3 +113,10 @@ Total Contests attempted: <br>
 * B. Minimize Abs 1 (AtCoder rating 200), (kenkoooo 200 rated problem solving session)
 * B. Next (AtCoder rating 200), (kenkoooo 200 rated problem solving session)
 * A. Spread (AtCoder rating 100), (kenkoooo 100 rated problem solving session)
+
+### 24th December
+
+* C. Count xxx (AtCoder rating 300), (solved as practice problem)
+* B. Christmas Trees (upsolved from AtCoder Beginner Contest 334), (rated 250 points)
+* A. Three Threes (AtCoder rating 100), (kenkoooo 100 rated problem solving session)
+* Variation (CodeChef past ZCO problems, 2015)

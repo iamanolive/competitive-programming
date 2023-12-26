@@ -1,6 +1,7 @@
-# Video Game (ZCO 2014)
+# Video Game
 
 * past year ZCO resources page on CodeChef
+* question appeared in ZCO 2014
 * link to problem: https://www.codechef.com/ZCOPRAC/problems/ZCO14001
 
 ## Problem Notes
