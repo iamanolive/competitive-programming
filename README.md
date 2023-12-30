@@ -141,3 +141,8 @@ Total Contests attempted: <br>
 * A. Weak Beats (AtCoder rating 100), (100-rated problem solving session)
 * Your Ride is Here (USACO training site), (chapter 1 section 1.1)
 * Greedy Gift Givers (USACO training site), (chapter 1 section 1.1)
+
+## 26th December
+* A. 11/11 (AtCoder rating 100), (100-rated problem solving session)
+* A. A^A (AtCoder rating 100), (100-rated problem solving session)
+* A. Weekly Records (AtCoder rating 100), (100-rated problem solving session)
