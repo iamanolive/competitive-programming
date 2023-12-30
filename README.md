@@ -146,3 +146,19 @@ Total Contests attempted: <br>
 * A. 11/11 (AtCoder rating 100), (100-rated problem solving session)
 * A. A^A (AtCoder rating 100), (100-rated problem solving session)
 * A. Weekly Records (AtCoder rating 100), (100-rated problem solving session)
+
+
+## 27th December
+* A. First ABC (AtCoder rating 100), (100-rated problem solving session)
+* A. Order Something Else (AtCoder rating 100), (100-rated problem solving session)
+* A. Nine (AtCoder rating 100), (100-rated problem solving session)
+* A. New Scheme (AtCoder rating 100), (100-rated problem solving session)
+* A. Echo (AtCoder rating 100), (100-rated problem solving session)
+* A. Water Station (AtCoder rating 100), (100-rated problem solving session)
+* A. First Player (AtCoder rating 100), (100-rated problem solving session)
+* A. Similar Strings (AtCoder rating 100), (100-rated problem solving session)
+* A. Attack (AtCoder rating 100), (100-rated problem solving session)
+* A. Overall Winner (AtCoder rating 100), (100-rated problem solving session)
+* A. N-Choice Question (AtCoder rating 100), (100-rated problem solving session)
+* A. Treasure Chest (AtCoder rating 100), (100-rated problem solving session)
+* A. Job Interview (AtCoder rating 100), (100-rated problem solving session)
