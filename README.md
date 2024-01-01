@@ -162,3 +162,15 @@ Total Contests attempted: <br>
 * A. N-Choice Question (AtCoder rating 100), (100-rated problem solving session)
 * A. Treasure Chest (AtCoder rating 100), (100-rated problem solving session)
 * A. Job Interview (AtCoder rating 100), (100-rated problem solving session)
+
+## 28th December
+
+* A. Alternately (AtCoder rating 100), (100-rated problem solving session)
+* A. Camel Case (AtCoder rating 100), (100-rated problem solving session)
+* A. Caps Lock (AtCoder rating 100), (100-rated problem solving session)
+* A. Contest Result (AtCoder rating 100), (100-rated problem solving session)
+* A. Double Click (AtCoder rating 100), (100-rated problem solving session)
+* A. Filter (AtCoder rating 100), (100-rated problem solving session)
+* A. Flip (AtCoder rating 100), (100-rated problem solving session)
+* A. Probably English (AtCoder rating 100), (100-rated problem solving session)
+* A. Swap Odd and Even (AtCoder rating 100), (100-rated problem solving session)
