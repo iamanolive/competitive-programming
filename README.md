@@ -142,13 +142,13 @@ Total Contests attempted: <br>
 * Your Ride is Here (USACO training site), (chapter 1 section 1.1)
 * Greedy Gift Givers (USACO training site), (chapter 1 section 1.1)
 
-## 26th December
+### 26th December
 * A. 11/11 (AtCoder rating 100), (100-rated problem solving session)
 * A. A^A (AtCoder rating 100), (100-rated problem solving session)
 * A. Weekly Records (AtCoder rating 100), (100-rated problem solving session)
 
 
-## 27th December
+### 27th December
 * A. First ABC (AtCoder rating 100), (100-rated problem solving session)
 * A. Order Something Else (AtCoder rating 100), (100-rated problem solving session)
 * A. Nine (AtCoder rating 100), (100-rated problem solving session)
@@ -163,7 +163,7 @@ Total Contests attempted: <br>
 * A. Treasure Chest (AtCoder rating 100), (100-rated problem solving session)
 * A. Job Interview (AtCoder rating 100), (100-rated problem solving session)
 
-## 28th December
+### 28th December
 
 * A. Alternately (AtCoder rating 100), (100-rated problem solving session)
 * A. Camel Case (AtCoder rating 100), (100-rated problem solving session)
@@ -174,3 +174,28 @@ Total Contests attempted: <br>
 * A. Flip (AtCoder rating 100), (100-rated problem solving session)
 * A. Probably English (AtCoder rating 100), (100-rated problem solving session)
 * A. Swap Odd and Even (AtCoder rating 100), (100-rated problem solving session)
+
+## January 2023
+
+Total problems solved: <br>
+Total AtCoder problems solved: <br>
+Total CodeChef problems solved: <br>
+Total CodeForces problems solved: <br>
+Total Contests attempted: <br>
+
+### 1st January
+
+* ^{-1} (AtCoder rating 100), (100-rated problem solving session)
+* Count Down (AtCoder rating 100), (100-rated problem solving session)
+* Edge Checker 2 (AtCoder rating 100), (100-rated problem solving session)
+* Find Takahashi (AtCoder rating 100), (100-rated problem solving session)
+* Generalized ABC (AtCoder rating 100), (100-rated problem solving session)
+* Majority (AtCoder rating 100), (100-rated problem solving session)
+* Many A+B Problems (AtCoder rating 100), (100-rated problem solving session)
+* Pawn on a Grid (AtCoder rating 100), (100-rated problem solving session)
+* Power (AtCoder rating 100), (100-rated problem solving session)
+* Range Swap (AtCoder rating 100), (100-rated problem solving session)
+* Rightmost (AtCoder rating 100), (100-rated problem solving session)
+* Sequence of Strings (AtCoder rating 100), (100-rated problem solving session)
+* Shift (AtCoder rating 100), (100-rated problem solving session)
+* wwwvvvvvvs (AtCoder rating 100), (100-rated problem solving session)

@@ -1,11 +1,10 @@
 # A. Flip
 
-* problem A in AtCoder Beginner Contest 389
+* problem A in AtCoder Beginner Contest 289
 * solved not as part of contest, but for practice
-* rating of 100 on AtCoder
-* link to problem: https://atcoder.jp/contests/abc297/tasks/abc297_a
+* rating of 100 on AtCoder (sky inc. programming contest)
+* link to problem: https://atcoder.jp/contests/abc289/tasks/abc289_a
 
 ## Solution Notes
 
-* if difference between any two consecutive elements in the array is less than or equal to D, print the element at position i in the array
-* if there is no such elements that satisfy the conditions, print -1
+* replace all 0s in the string with 1s. replace all 1s with 0s.
