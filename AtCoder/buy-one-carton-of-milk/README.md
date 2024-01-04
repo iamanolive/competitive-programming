@@ -11,3 +11,7 @@
 * pack of 8 eggs = M
 * pack of 12 eggs = L
 * min money to purchase ATLEAST N eggs
+<br>
+
+* what if i calculated the price (in double) of each egg in the 6, 8, and 12 egg packs seperately, and then subtracted the pack that had lowest-per-egg cost from N if and ONLY if N >= no. of eggs in that pack
+* and continue doing this until number of eggs left were less than N, then subtract the pack that had min(remaining N, all packs) from N.

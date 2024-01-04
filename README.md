@@ -199,3 +199,10 @@ Total Contests attempted: <br>
 * Sequence of Strings (AtCoder rating 100), (100-rated problem solving session)
 * Shift (AtCoder rating 100), (100-rated problem solving session)
 * wwwvvvvvvs (AtCoder rating 100), (100-rated problem solving session)
+
+### 2nd January
+
+* A^A (AtCoder rating 200), (200-rated problem solving session)
+* Batting Average (AtCoder rating 100), (100-rated problem solving session)
+* Pentagon (AtCoder rating 200), (200-rated problem solving session)
+* Christmas Greetings (CodeChef practice question), (rated 205)
