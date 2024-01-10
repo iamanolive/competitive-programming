@@ -231,3 +231,16 @@ Total Contests attempted: <br>
 * Total amount of points (Rated 8 kyu - easiest - on CodeWars)
 * Transportation on Vacation (Rated 8 kyu - easiest - on CodeWars)
 * Rock, Paper, Scissors! (Rated 8 kyu - easiest - on CodeWars)
+
+### 6th January
+
+* 202<s>3</s> (AtCoder Beginner Contest 335), (solved as rated participant)
+* Tetrahedral Number (AtCoder Beginner Contest 335), (solved as rated participant)
+
+### 7th January
+
+* Easy Pronunciation (rated 1000 on CodeChef)
+* ATM Machine (rated 1001 on CodeChef)
+* Lucky Number Game (rated 1500 on CodeChef)
+* Suspense String (rated 1500 on CodeChef)
+* Chef and Magical Jars (rated 1502 on CodeChef)
