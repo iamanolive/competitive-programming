@@ -311,3 +311,8 @@ Total Contests attempted: <br>
 * Hattrick (CodeChef Starters 116), (scorable problems for division 3)
 * Access Control (CodeChef Starters 116), (scorable problems for division 3)
 * ORST (CodeChef Starters 116), (scorable problems for division 3)
+
+### 11th January
+
+* Mixing Milk (USACO 2018 December Contest, Bronze)
+* Skip Numbers (virtul participation in past tle level 1 contest)
