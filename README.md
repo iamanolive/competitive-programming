@@ -315,4 +315,16 @@ Total Contests attempted: <br>
 ### 11th January
 
 * Mixing Milk (USACO 2018 December Contest, Bronze)
+* Shell Game (USACO 2019 January Contest, Bronze)
 * Skip Numbers (virtul participation in past tle level 1 contest)
+
+### 12th January
+
+* 1 Halloumi Boxes (CodeForces rating 800, problem 1 from the tle CP-31 sheet)
+* 2 Line Trip (CodeForces rating 800, problem 2 from the tle CP-31 sheet)
+* B. Distinct Sum and Number (solved as part of the official tle level 1 two-hour contest)
+* C. Raj and Flowers (solved as part of the official tle level 1 two-hour contest)
+* D. Priyansh and Primes (solved as part of the official tle level 1 two-hour contest)
+* E. Children and Treats (solved as part of the official tle level 1 two-hour contest)
+* 3 Cover in water (CodeForces rating 800, problem 3 from the tle CP-31 sheet)
+* 4 Game with Integers (CodeForces rating 800, problem 4 from the tle CP-31 sheet)
