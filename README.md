@@ -1,4 +1,5 @@
 # Competitive Programming
+
 Github repository featuring all accepted Competitive Programming problems solved since the 14th of December 2023
 
 ## December 2023
@@ -304,3 +305,9 @@ Total Contests attempted: <br>
 * Find the odd int (rated 6 kyu on CodeWars)
 * Highest scoring word (rated 6 kyu on CodeWars)
 * Replace the alphabet position (rated 6 kyu on CodeWars)
+
+### 10th January
+
+* Hattrick (CodeChef Starters 116), (scorable problems for division 3)
+* Access Control (CodeChef Starters 116), (scorable problems for division 3)
+* ORST (CodeChef Starters 116), (scorable problems for division 3)
