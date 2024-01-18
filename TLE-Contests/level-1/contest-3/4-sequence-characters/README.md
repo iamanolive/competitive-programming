@@ -8,4 +8,7 @@
 * if the key worked properly, char 'x' was printed
 * if the key was faulty, char 'x' was printed twice in succession
 * given string S, identify all characters that are working properly (such that S[i] != s[i - 1] and s[i] != s[i + 1])
-* but above method fails if there's more than 2 consecutive characters appearing in the string. we still use the above method but also add in characters to the result string if their total occurrence count is not a multiple of 2 (aka they appear an odd number of times in the string)
+* if length of string == 1, print the character
+* if length of string == 2 and str[0] == str[1] don't output anything, else output both characters
+* if length of string >= 3, if str[i] == str[i + 1], set both str[i] and str[i + 1], set both the elements to 0, else add that element to the list
+* sort list alphabetically, remove duplicates and print it.

@@ -7,12 +7,12 @@ int main() {
     freopen("cowsignal.out", "w", stdout);
     int m, n, k;
     cin >> m >> n >> k;
-    for(int i = 0; i < m; i++) {
-        string str; cin >> str;
-        for(int j = 0; j < k; j++) {
-            for(int l = 0; l < n; l++)
-                cout << str[l] << str[l];
-            cout << endl;
-        }
+    string *arr = new string[m];
+    for(int i = 0; i < m; i++)
+        cin >> arr[i];
+    for(int i = 0; i < m * k; i++) {
+        for(int j = 0; j < n * k; j++) {
+            cout << arr[i / k][j / k];
+        } cout << endl;
     }
 }
