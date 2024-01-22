@@ -15,10 +15,13 @@ int main() {
     int *cows = new int[n];
     for(int i = 0; i < n; i++)
         cin >> cows[i];
-
     int *result = new int[n];
-    for(int i = 0; i < n; i++)
-        result[locations[i] - 1] = cows[i];
+    for(int i = 0; i < 3; i++) {
+        for(int i = 0; i < n; i++)
+            result[i] = cows[locations[i] - 1];
+        for(int i = 0; i < n; i++)
+            cows[i] = result[i];
+    }
 
     for(int i = 0; i < n; i++)  
         cout << result[i] << endl;

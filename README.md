@@ -328,3 +328,14 @@ Total Contests attempted: <br>
 * E. Children and Treats (solved as part of the official tle level 1 two-hour contest)
 * 3 Cover in water (CodeForces rating 800, problem 3 from the tle CP-31 sheet)
 * 4 Game with Integers (CodeForces rating 800, problem 4 from the tle CP-31 sheet)
+
+### 21st January
+
+* 1 Friend of X (GeeksForGeeks Weekly Contest 138)
+* 2 Minimum Array Score (GeeksForGeeks Weekly Contest 138)
+
+### 22nd January
+
+* B. Even Array (CodeForces Round 650) (solved as part of tle daily tasks, level 1 week 2)
+* A. Word (Codeforces beta round 55) (solved as part of tle daily tasks, level 1 week 2)
+* Pattern (GeeksForGeeks medium difficulty) (solved as part of tle daily tasks, level 1 week 2)
