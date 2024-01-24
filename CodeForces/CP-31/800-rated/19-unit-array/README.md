@@ -6,9 +6,15 @@
 
 ## Solution Notes
 
-* array A[n] with elements equal to -1 and 1
-* array A is good if the sum of all its elements >= 0 and the product of all its elements == 1
-* in one operation, select an arbitrary element and change its value to the opposite
-* find min number of operations to make the array good
-* if array already has an even number of -1 elements and count of -1 <= count of 1, then 0 operations
-* else max(1, negCount - posCount)
+* condition 1 suggests that the array needs to have count of 1 >= count of -1 at all times
+* condition 2 suggests that the array needs to have an even number of -1s at all times
+
+* if (-1 count) is greater than (1 count), (1 count) += ((-1 count) - (1 count) + 1) / 2 and (-1 count) = array length - (1 count)
+* if (-1 count) is odd, increment (1 count) by 1
+
+* if (-1 count) > (1 count), counter = ((-1 count) - (1 count) + 1) / 2
+* and if (-1 count) is still odd, counter += 1
+* else print counter
+
+* if (-1 count) <= (1 count), do nothing
+* but if (-1 count) is odd, counter = 1
