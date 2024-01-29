@@ -16,3 +16,8 @@ int main() {
         } cout << result << '\n';
     }
 }
+
+
+
+
+2 + 1 hrs

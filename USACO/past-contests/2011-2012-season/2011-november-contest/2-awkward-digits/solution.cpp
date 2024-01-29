@@ -20,9 +20,8 @@ int main() {
             if(temp2[i] == '0') temp2[i] = '1';
             else if(temp2[i] == '1') temp2[i] = '0'; 
             for(int j = 0; j < base3.length(); j++) {
-                for(int k = 0; k < 3; k++) {
-                    
-                }
+                string temp3 = base3;
+                
             }
         }
     }
