@@ -1,21 +1,20 @@
 #include <iostream>
 using namespace std;
 
-int solution(int n, int m) {
-    bool notPower = false;
-    if(m > n) return n;
-    int counter = 0;
-    int rem = 0;
+long long solution(int n, int k) {
+    if(n < k) return n;
+    long long result = n;
+    long long rem = 0;
     while(true) {
-        counter += n;
-        int tmp = n + rem;
-        n = (n+rem) / m;
-        rem = tmp%m;
-        if(n < m) return counter + rem + 1;
+        if(n == 1 && rem == 0) return result;
+        rem = n % k;
+        n = n / k + rem;
+        result += n - rem;
     }
 }
 
 int main() {
-    int n, m; cin >> n >> m;
-    cout << solution(n, m) << endl;
+    long long n, k; cin >> n >> k;
+    cout << solution(n, k) << endl;
 }
+
