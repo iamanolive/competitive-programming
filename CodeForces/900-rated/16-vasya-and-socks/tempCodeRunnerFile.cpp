@@ -8,7 +8,7 @@ long long solution(int n, int m) {
     while(true) {
         if(n == 0 && rem < m) return result;
         tmp = (n + rem) / m;
-        rem = (n + rem) % m;
+        rem = n % m;
         n = tmp;
         result += n;
     }
