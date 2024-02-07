@@ -17,17 +17,13 @@ int main() {
             p2sum += player2rolls[j];
         } sort(player1rolls, player1rolls + p1);
         sort(player2rolls, player2rolls + p2);
+        
         if(p1sum > p2) cout << 'Y';
         else cout << 'N';
-        if(p1 == p2) cout << 'Y';
-        else if(p1 < p2) {
-            if(player1rolls[p1-1] > p2) cout << 'Y';
-            else cout << 'N';
-        }
-        else if(p1 > p2) {
-            if(player2rolls[p2-1] > p1) cout << 'Y';
-            else cout << 'N';
-        }
+        
+        // check for possibility of a draw
+        
+        
         if(p2sum > p1 * 4) cout << 'Y' << endl;
         else cout << 'N' << endl;
     }
