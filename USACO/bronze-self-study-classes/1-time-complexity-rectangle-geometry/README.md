@@ -16,3 +16,10 @@
 * if B is below L or L is below B (on the same X-coordinate but different Y-coordinate) and R is on the same X-coordinate as both B and L and is also between them, result = abs(Y-coordinate of B - Y-coordinate of L) + 2
 * else if B is to the right of L or L is to the right of B (on the same Y-coordinate but different X-coordinate) and R has the same Y-coordinate as B and L and is also between them, result = abs(X-coordinate of B - Y-coordinate of L) + 2
 * else result = abs(X-coordinate of B - X coordinate of L) + abs(Y-coordinate of B - Y-coordinate of L)
+
+## 3. Blocked Billboard
+
+* difficulty: easy
+* submitted on fri feb 09 2024
+* problem link: https://usaco.guide/groups/d7eYGfddXq3m2trXG2xt/post/ZkhTvlw0KgyHrqQ69LD1/problems/xWWpKqF6flpFOJ3PUybh
+* initial solution of checking if any of the four edges of the truck are within the perimeters of the billboards does not work when the truck overlaps the entirety of both or either of the billboards.
