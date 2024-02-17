@@ -8,4 +8,3 @@
 
 * integers that are divisible by 3 or end with the digit 3
 * output kth element of the sequence of natural numbers, if all integers that follow the above condition are removed
-* 
